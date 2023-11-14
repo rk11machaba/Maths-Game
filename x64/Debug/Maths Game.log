@@ -1,0 +1,8 @@
+﻿  Maths Game.cpp
+C:\Users\Macha\source\repos\Maths Game\Maths Game.cpp(79,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Macha\source\repos\Maths Game\Maths Game.cpp(84,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Macha\source\repos\Maths Game\Maths Game.cpp(89,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Macha\source\repos\Maths Game\Maths Game.cpp(139,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Macha\source\repos\Maths Game\Maths Game.cpp(133,7): warning C4101: 'answer': unreferenced local variable
+C:\Users\Macha\source\repos\Maths Game\Maths Game.cpp(133,15): warning C4101: 'ans': unreferenced local variable
+  Maths Game.vcxproj -> C:\Users\Macha\source\repos\Maths Game\x64\Debug\Maths Game.exe
